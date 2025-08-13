@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
- <img scr="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0EF7F4&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+Sharif+Al-Mahmodi;Full-Stack+Developer;Flutter+%7C+PHP+%7C+Laravel+%7C+JS" alt="Typing SVG"/>
+ <img scr="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EF7F4&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+Sharif+Al-Mahmodi;Full-Stack+Developer;Flutter+%7C+PHP+%7C+Laravel+%7C+JS" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
